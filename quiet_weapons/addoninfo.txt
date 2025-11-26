@@ -1,0 +1,8 @@
+AddonInfo
+{
+    addonTitle    "Quiet Weapons"
+    addonVersion  "0.1"
+    addonAuthor   "tyrantdragon000"
+    addonContent  "scripts"
+    addonDescription "Reduces all firearm sounds by 70%."
+}
