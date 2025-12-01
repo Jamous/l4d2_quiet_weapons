@@ -1,6 +1,6 @@
 AddonInfo
 {
-    addonTitle    "Quiet Weapons"
+    addonTitle    "Quiet Weapons 70"
     addonVersion  "0.1"
     addonAuthor   "tyrantdragon000"
     addonContent  "scripts"
